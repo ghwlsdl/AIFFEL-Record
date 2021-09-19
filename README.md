@@ -1,2 +1,3 @@
-# first-repository
-add new contents
+# AIFFEL-Record
+
+2021-09-06 AIFFEL START (NO Base Python)
